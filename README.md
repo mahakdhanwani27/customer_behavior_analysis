@@ -85,7 +85,7 @@ Improved data clarity and decision-making support
 
 Clone the repository
 
-git clone <repository-url>
+git clone https://github.com/mahakdhanwani27/customer_behavior_analysis
 
 
 Install required Python libraries
