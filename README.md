@@ -1,4 +1,4 @@
-📊 Data Analytics Project
+📊 Data Analytics Project  (Customer Behavior Analysis)
 📌 Overview
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from raw data ingestion to insights visualization and reporting. It showcases practical skills in Python, SQL, Power BI, and data storytelling, making it suitable for real-world business analytics use cases.
